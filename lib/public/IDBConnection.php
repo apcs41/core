@@ -255,7 +255,7 @@ interface IDBConnection {
 	 * Gets the currently active transaction isolation level.
 	 *
 	 * @return integer The current transaction isolation level.
-	 * @since 10.0.0
+	 * @since 10.0
 	 */
 	public function getTransactionIsolation();
 
